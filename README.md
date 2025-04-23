@@ -1,10 +1,7 @@
 # **ObSecure**
 
-Introducing our new Obscenity Blocker Plugin, designed to protect your online experience from harmful content. With the rise of explicit content online, it's more important than ever to ensure that you and your loved ones are not exposed to inappropriate material. Our plugin uses state-of-the-art technology to detect and block obscene images, videos, and audio files, giving you peace of mind while you browse the internet.
+Introducing our new Obscenity Blocker Plugin, designed to protect your online experience from harmful content. With the rise of explicit content online, it's more important than ever to ensure that you and your loved ones are not exposed to inappropriate material. Our plugin uses state-of-the-art technology to detect and block obscene images giving you peace of mind while you browse the internet.
 
-To learn more about our Obscenity Blocker Plugin, check out our presentation and demo video. In our presentation, we cover the technology behind our plugin, its features, and the benefits it offers. Our demo video showcases how our plugin works in action, highlighting its effectiveness and ease of use.
-
-Protect yourself and your loved ones from inappropriate content online with our Obscenity Blocker Plugin. Try it today!
 
 ## **Context**
 
@@ -32,8 +29,6 @@ Given the government's stance on pornography, it is likely that they would be in
 - User installs the browser extension: Users can download and install the browser extension on their device to use it.
 - Media scanning: The browser extension will scan all media content that the user attempts to access on the internet. This includes images, videos, and audio files.
 - Computer vision: The extension uses computer vision algorithms to scan images and videos for obscene content. It can use object detection techniques to identify nudity, sex toys, or other explicit content in the image or video.
-- NLP algorithms: The extension uses NLP algorithms to scan the audio content for inappropriate language, including hate speech and sexual content.
-- Blocking and alert system: If the extension detects any obscene media, it will automatically block the content from being displayed to the user. The extension can also alert the user about the blocked content and report it to the concerned nodal agency.
 - Updating the model: The extension's model should be continuously updated with the latest data and algorithms to improve its accuracy and ensure it can detect the latest types of obscene content.
 
 #### **Running on local machine**
