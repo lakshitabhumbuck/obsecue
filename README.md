@@ -36,7 +36,7 @@ Given the government's stance on pornography, it is likely that they would be in
 1. Clone the repository
 
 ```bash
-git clone https://github.com/rumbleFTW/obsecure.git
+git clone https://github.com/lakshitabhumbuck/obsecure.git
 ```
 
 2. Installing dependencies
